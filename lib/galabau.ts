@@ -107,7 +107,7 @@ export const galabau: GalabauConfig = {
     "teamSize": "",
     "machines": ""
   },
-  "claim": "Gärten planen, Pflaster setzen, Terrassen bauen. Rund um Viernheim.",
+  "claim": "Garten- und Landschaftsbau Rhein-Neckar",
   "heroSubline": "Aufmaß, Planung, Ausführung und Pflege aus einer Hand. Wir arbeiten in Viernheim, Mannheim, Weinheim und im Umkreis von rund 40 km.",
   "services": [
     {
